@@ -1,0 +1,6 @@
+﻿  Example1.cpp
+c:\users\epsilon\desktop\244169\lab3\lab3\lab3\example1.cpp(35): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+c:\users\epsilon\desktop\244169\lab3\lab3\lab3\example1.cpp(70): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note:  см. объявление "getch"
+  Lab3.vcxproj -> C:\Users\Epsilon\Desktop\244169\Lab3\Lab3\Debug\Lab3.exe
